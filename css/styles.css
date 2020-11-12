@@ -159,12 +159,12 @@ sup {
 }
 
 a {
-  color: #bd5d38;
+  color: paleturquoise;
   text-decoration: none;
   background-color: transparent;
 }
 a:hover {
-  color: #824027;
+  color: blue;
   text-decoration: underline;
 }
 
@@ -9780,7 +9780,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: blue !important;
+  color: paleturquoise !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
@@ -10046,7 +10046,7 @@ p.lead {
   #sideNav .navbar-brand .img-profile {
     max-width: 10rem;
     max-height: 10rem;
-    border: 0.5rem solid rgba(255, 255, 255, 0.2);
+    border: 0.5rem solid paleturquoise;
   }
   #sideNav .navbar-collapse {
     display: flex;
@@ -10094,7 +10094,7 @@ section.resume-section {
   align-items: center;
   padding-left: 1rem;
   padding-right: 1rem;
-  padding-top: 5rem;
+  padding-top: 1rem;
   padding-bottom: 5rem;
   max-width: 75rem;
 }
@@ -10111,7 +10111,7 @@ section.resume-section .resume-section-content {
   section.resume-section {
     padding-left: 3rem;
     padding-right: 3rem;
-    padding-top: 5rem;
+    padding-top: 1rem;
     padding-bottom: 5rem;
   }
 }
